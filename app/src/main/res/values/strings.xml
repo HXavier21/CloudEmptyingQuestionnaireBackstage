@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Questionnaire Backstage</string>
+    <string name="error_in_json">error in json</string>
+    <string name="please_import_questionnaire_topic_json">Please Import Questionnaire(.json)</string>
+    <string name="questionnaire_json">Questionnaire(.json)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="import_questionnaire">Import Questionnaire</string>
+    <string name="or">or</string>
+    <string name="questionnaires_database">Questionnaire Database</string>
+    <string name="questionnaire_database">Questionnaire Database</string>
+    <string name="progress_indicator_text">%d of %d</string>
+    <string name="answer">Answer</string>
+    <string name="blank_fill">Blank_Fill</string>
+    <string name="multiple_choice">Multiple_Choice</string>
+    <string name="single_choice">Single_Choice</string>
+    <string name="over">Over!</string>
+    <string name="back_to_home">Back To Home</string>
+    <string name="back_to_database">Back To Database</string>
+    <string name="name">Name</string>
+</resources>
